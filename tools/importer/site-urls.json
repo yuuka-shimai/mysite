@@ -1,0 +1,29 @@
+{
+  "originUrl": "https://main--mysite--yuuka-shimai.aem.live",
+  "aborted": false,
+  "lastCrawled": "https://main--mysite--yuuka-shimai.aem.live/",
+  "urls": [
+    {
+      "url": "https://main--mysite--yuuka-shimai.aem.live/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "890cf10378bdfbe702b9a915cc098853ac16985b"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
