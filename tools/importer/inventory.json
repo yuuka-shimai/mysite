@@ -2,9 +2,9 @@
   "fragments": [],
   "blocks": [
     {
-      "name": "single-image",
+      "name": "new-image",
       "cluster": 1,
-      "target": "new-image",
+      "target": "single-image",
       "instances": []
     }
   ],
