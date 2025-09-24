@@ -1,4 +1,0 @@
-mounts:
-  - url: https://drive.google.com/drive/u/0/folders/1rT7hw0gi8NBgXtLK-yNQbWZVN6gYBeUs
-    type: drive
-    name: google-drive
