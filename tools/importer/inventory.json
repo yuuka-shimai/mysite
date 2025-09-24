@@ -1,0 +1,14 @@
+{
+  "fragments": [],
+  "blocks": [
+    {
+      "name": "Image",
+      "cluster": 1,
+      "source": "single-image",
+      "target": "image",
+      "key": "image1",
+      "instances": []
+    }
+  ],
+  "outliers": []
+}
