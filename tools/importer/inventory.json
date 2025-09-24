@@ -5,7 +5,7 @@
       "name": "Image",
       "cluster": 1,
       "source": "single-image",
-      "target": "image",
+      "target": "new-image",
       "key": "image1",
       "instances": []
     }
