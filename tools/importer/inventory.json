@@ -1,0 +1,10 @@
+{
+  "fragments": [],
+  "blocks": [
+    {
+      "name": "new-image",
+      "cluster": 1,
+      "target": "single-image"
+    }
+  ]
+}
